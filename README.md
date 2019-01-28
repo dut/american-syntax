@@ -1,4 +1,4 @@
-# what-a-good-syntax theme
+# american-syntax theme
 
 A short description of my theme but maybe later.
 
