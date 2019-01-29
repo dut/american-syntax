@@ -11,7 +11,7 @@
     "american",
     "USA"
   ],
-  "repository": "https://github.com/dutartre/canadian-syntax",
+  "repository": "https://github.com/dutartre/american-syntax",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
