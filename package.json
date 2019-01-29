@@ -1,7 +1,7 @@
 {
   "name": "american-syntax",
   "theme": "syntax",
-  "version": "0.1.0",
+  "version": "0.0.0",
   "description": "Cool theme with cool americans colors!",
   "keywords": [
     "syntax",
@@ -10,8 +10,9 @@
     "good",
     "american",
     "USA"
+
   ],
-  "repository": "https://github.com/dutartre/canadian-syntax",
+  "repository": "https://github.com/dutartre/american-syntax",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
