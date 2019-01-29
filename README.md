@@ -1,5 +1,10 @@
 # american-syntax theme
 
-A short description of my theme but maybe later.
+Hey cowboy! You love the USA?
+Check this theme!
 
-![A screenshot of your theme](https://f.cloud.github.com/assets/69169/2289498/4c3cb0ec-a009-11e3-8dbd-077ee11741e5.gif)
+![A screenshot of your theme](http://image.noelshack.com/fichiers/2019/05/2/1548755789-screenshot-1.png)
+
+Also follow me here:
+https://github.com/dutartre
+https://instagram.com/dutartre
