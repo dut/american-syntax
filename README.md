@@ -20,4 +20,4 @@ PHP:
 
 
 Also follow me here:
-https://github.com/dutartre - https://instagram.com/dutartre
+https://github.com/dut - https://instagram.com/dutartre
